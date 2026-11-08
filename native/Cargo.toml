@@ -26,7 +26,7 @@ egui_extras = { version = "0.33", features = ["image", "svg"] }
 image = { version = "0.25", default-features = false, features = ["png", "jpeg", "ico", "webp", "gif", "bmp", "tiff"] }
 jxl-oxide = { version = "0.12", features = ["image"] }
 libloading = "0.8"
-lopdf = "0.38"
+lopdf = "0.42"
 meval = "0.2"
 quick-xml = "0.39"
 scraper = { version = "=0.27.0", default-features = false }
